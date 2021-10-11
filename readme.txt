@@ -1,1 +1,1 @@
-Creating a new branch is quick and simple and 发发发
+Creating a new branch is quick and simple and add merge
